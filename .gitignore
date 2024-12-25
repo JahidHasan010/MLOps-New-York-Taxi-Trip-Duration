@@ -1,5 +1,5 @@
 /venv
-src.egg.info
+src.egg-info
 logs
 data/external/*
 data/interim/*
@@ -8,3 +8,5 @@ data/processed/final/*
 data/processed/transformations/*
 data/raw/extracted/*
 data/raw/zipped/*
+
+__pycache__
