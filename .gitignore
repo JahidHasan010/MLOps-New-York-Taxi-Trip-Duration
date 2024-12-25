@@ -1,0 +1,10 @@
+/venv
+src.egg.info
+logs
+data/external/*
+data/interim/*
+data/processed/build-features/*
+data/processed/final/*
+data/processed/transformations/*
+data/raw/extracted/*
+data/raw/zipped/*

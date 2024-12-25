@@ -1,0 +1,10 @@
+pandas
+numpy 
+scikit-learn
+dvc
+matplotlib
+seaborn
+xgboost
+
+# local file resuse
+-e .
